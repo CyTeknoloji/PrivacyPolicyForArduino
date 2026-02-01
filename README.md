@@ -1,4 +1,4 @@
-##Privacy Policy for Arduino IDE: Projects and AI
+Privacy Policy for Arduino IDE: Projects and AI
 Last Updated: May 24, 2024 (Or current date)
 
 This Privacy Policy describes how Cy Tech ("we", "us", or "our") collects, uses, and shares information when you use our mobile applications available on the Google Play Store and Apple App Store. By installing and using our applications, you agree to the terms outlined in this policy.
